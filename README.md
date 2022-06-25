@@ -1,2 +1,0 @@
-# aulaQts
-Rodrigo Polino Filippini
